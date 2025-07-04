@@ -18,9 +18,9 @@ Technical courses and certification records.
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c64a0c6d13f8c3d75ad6a83f2d32863825a680cf6eaf7f92a366f1e53dd168ea?trk=share_certificate)**
 
 ### AI 認證
-- **[經濟部產業發展署產業AI人才完訓證書](https://github.com/zoelinsg/Coding-Certifications/blob/main/Other/%E7%B6%93%E6%BF%9F%E9%83%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E7%BD%B2%E7%94%A2%E6%A5%ADAI%E4%BA%BA%E6%89%8D%E5%AE%8C%E8%A8%93%E8%AD%89%E6%9B%B8.pdf)**
+- **[經濟部產業發展署產業AI人才完訓證書](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/AI/%E7%B6%93%E6%BF%9F%E9%83%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E7%BD%B2%E7%94%A2%E6%A5%ADAI%E4%BA%BA%E6%89%8D%E5%AE%8C%E8%A8%93%E8%AD%89%E6%9B%B8.pdf)**
 
 ### Forage 實習認證
-- **[wells fargo Software Engineering Job Simulation certificate](https://github.com/zoelinsg/Coding-Certifications/blob/main/Other/%E7%B6%93%E6%BF%9F%E9%83%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E7%BD%B2%E7%94%A2%E6%A5%ADAI%E4%BA%BA%E6%89%8D%E5%AE%8C%E8%A8%93%E8%AD%89%E6%9B%B8.pdf)**
+- **[wells fargo Software Engineering Job Simulation certificate](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Forage/wells_fargo_certificate.pdf)**
 
 **陸續更新中！** 
