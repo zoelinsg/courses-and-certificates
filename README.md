@@ -15,8 +15,8 @@ Technical courses and certification records.
 - **[Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c64a0c6d13f8c3d75ad6a83f2d32863825a680cf6eaf7f92a366f1e53dd168ea?trk=share_certificate)**
 
 ### Google 數位人才探索計畫
-- **[Google Cloud 結業證書]()**
-- **[數位行銷結業證書]()**
+- **[Google Cloud 結業證書](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/568670824106557561.jpg)**
+- **[數位行銷結業證書](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/568670397026271494.jpg)**
 
 ### AI 認證
 - **[經濟部產業發展署產業AI人才完訓證書](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/AI/%E7%B6%93%E6%BF%9F%E9%83%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E7%BD%B2%E7%94%A2%E6%A5%ADAI%E4%BA%BA%E6%89%8D%E5%AE%8C%E8%A8%93%E8%AD%89%E6%9B%B8.pdf)**
