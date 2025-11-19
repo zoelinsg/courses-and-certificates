@@ -4,4 +4,4 @@
 - **[Comprehensive Introduction to HTML for Beginners](https://github.com/zoelinsg/courses-and-certificates/blob/main/courses/CodeSignal/HTML%20for%20Beginners.pdf)**
 
 #### **Git**
-- **[Git Version Control for Beginners](https://github.com/zoelinsg/courses-and-certificates/blob/main/courses/CodeSignal/HTML%20for%20Beginners.pdf)**
+- **[Git Version Control for Beginners](https://github.com/zoelinsg/courses-and-certificates/blob/main/courses/CodeSignal/Git%20Version%20Control%20for%20Beginners.pdf)**
