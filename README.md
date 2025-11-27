@@ -9,6 +9,7 @@ Technical courses and certification records.
 
 ### freeCodeCamp 認證
 - **[Free Foundational C# with Microsoft](https://www.freecodecamp.org/certification/zoelinsg/foundational-c-sharp-with-microsoft)**
+- **[Legacy Responsive Web Design V8](https://www.freecodecamp.org/certification/zoelinsg/responsive-web-design)**
 
 ### Linkedin 認證
 - **[Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/bb6e76f1502be70ec867cb4c6d27424e9997c5e15aec90cb6b2d64e5c5571bdd?trk=share_certificate)**
