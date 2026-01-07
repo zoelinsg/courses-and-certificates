@@ -1,4 +1,4 @@
 # Kaggle
 ## 🔹 Courses
-- **[Intro to Programming](https://www.datacamp.com/completed/statement-of-accomplishment/course/02054ab1e85c2374bf5ba7980dc12f019e021d01)**
-- **[Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/02054ab1e85c2374bf5ba7980dc12f019e021d01)**
+- **[Intro to Programming](https://github.com/zoelinsg/courses-and-certificates/blob/main/courses/Kaggle/Intro%20to%20Programming.png)**
+- **[Python](https://github.com/zoelinsg/courses-and-certificates/blob/main/courses/Kaggle/Python.png)**
