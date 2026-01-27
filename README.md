@@ -22,7 +22,7 @@ Technical courses and certification records.
 - **[Generative Al for Educators Certificate](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Generative%20AI%20for%20Educators%20Certificate.pdf)**
 - **[Google Al for K12 Educators](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Google%20AI%20for%20K12%20Educators.pdf)**
 - **[Gemini University Student](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Gemini%20University%20Student.pdf)**
-- **[Gemini Certified Faculty](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Gemini%20Faculty.pdf)**
+- **[Gemini Faculty](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Gemini%20Faculty.pdf)**
 - **[Gemini Educator](https://github.com/zoelinsg/courses-and-certificates/blob/main/certificates/Google/Gemini%20Educator.pdf)**
 
 ### AI 認證
